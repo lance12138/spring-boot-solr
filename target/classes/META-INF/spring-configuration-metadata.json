@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.hujiang.repository.DruidRepository",
+      "sourceType": "com.hujiang.repository.DruidRepository"
+    },
+    {
+      "name": "spring.solr",
+      "type": "com.hujiang.model.SolrConfig",
+      "sourceType": "com.hujiang.model.SolrConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.repository.DruidRepository"
+    },
+    {
+      "name": "spring.datasource.jdbc-url",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.repository.DruidRepository"
+    },
+    {
+      "name": "spring.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.repository.DruidRepository"
+    },
+    {
+      "name": "spring.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.repository.DruidRepository"
+    },
+    {
+      "name": "spring.solr.default-collection",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.model.SolrConfig"
+    },
+    {
+      "name": "spring.solr.host",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.model.SolrConfig"
+    },
+    {
+      "name": "spring.solr.zk-host",
+      "type": "java.lang.String",
+      "sourceType": "com.hujiang.model.SolrConfig"
+    }
+  ]
+}

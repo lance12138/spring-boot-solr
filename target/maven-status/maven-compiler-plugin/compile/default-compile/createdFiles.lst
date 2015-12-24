@@ -1,0 +1,6 @@
+com\hujiang\model\SolrConfig.class
+com\hujiang\model\Demo.class
+com\hujiang\controller\HelloController.class
+com\hujiang\config\solrClientConfig.class
+META-INF\spring-configuration-metadata.json
+com\hujiang\Application.class
